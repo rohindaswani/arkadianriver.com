@@ -11,7 +11,7 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: kitchenstories
+title: Kitchen Stories
 description: A Hungry Company
 owner:
   name: Kitchen Stories
@@ -34,12 +34,12 @@ closing-para: Feel free to get in touch. Cheers!
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/arkadianriver
-  github: https://github.com/arkadianriver
-  linkedin-square: https://linkedin.com/in/garyfaircloth
-  facebook-official: https://facebook.com/gary.faircloth
-  google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
-  email: /contact/
+#  twitter: https://twitter.com/arkadianriver
+#  github: https://github.com/arkadianriver
+#  linkedin-square: https://linkedin.com/in/garyfaircloth
+#  facebook-official: https://facebook.com/gary.faircloth
+#  google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
+#  email: /contact/
   #flickr:
   #instagram:
   #youtube-square:
