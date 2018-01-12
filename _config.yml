@@ -19,7 +19,7 @@ owner:
   url:
 first_published: 2018 # if migrating another site, the year of your first publish
 baseurl: "/kitchenstories" # the subpath of your site, e.g. /blog
-url: "https://rohindaswani.github.io" # the base hostname & protocol for your site
+url: "https://github.com/rohindaswani" # the base hostname & protocol for your site
 
 # on landing page
 # - set the greeting only if you want to display the first green section
